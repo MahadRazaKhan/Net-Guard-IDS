@@ -1,5 +1,8 @@
 # NetGuard Security System
 
+![Screenshot](assets/screenshot1.png)
+![Screenshot](assets/screenshot1.png)
+
 **NetGuard Security System** is a real-time network monitoring and cybersecurity tool built with **Node.js** and **Express.js**. It captures live network traffic, analyzes packets, detects potential threats, and provides an interactive dashboard for monitoring and alert management. This project is suitable for network security enthusiasts, penetration testers, and cybersecurity learners.
 
 ---
